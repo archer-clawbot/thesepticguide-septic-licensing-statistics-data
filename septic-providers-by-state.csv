@@ -1,0 +1,46 @@
+state,state_name,providers_listed,providers_license_matched,license_match_rate_pct,providers_with_phone,providers_with_website,counties_with_providers,main_matched_issuer,licensing_level,public_roster,providers_offering_septic_tank_pumping,providers_offering_septic_system_installation,providers_offering_septic_inspection,providers_offering_septic_repair,providers_offering_drain_field_repair,providers_offering_aerobic_septic_systems,providers_offering_septic_risers_and_lids,providers_offering_perc_testing_and_site_evaluation,providers_offering_grease_trap_pumping
+AL,Alabama,49,2,4.1,48,49,16,Alabama Licensing Board for General Contractors,state,lookup,38,28,30,30,27,2,6,7,17
+AZ,Arizona,212,196,92.5,84,65,15,Arizona Registrar of Contractors,state,list,33,203,30,28,19,7,12,14,13
+AR,Arkansas,1248,1240,99.4,1245,47,71,Arkansas Department of Health,state,list,110,1044,12,8,5,81,2,156,5
+CA,California,1006,938,93.2,1005,398,53,California Contractors State License Board,state,list,142,960,174,98,83,16,36,24,60
+CO,Colorado,30,0,0.0,30,30,9,,local,none,18,16,17,11,12,1,4,7,10
+CT,Connecticut,1925,1903,98.9,142,86,8,Connecticut Department of Public Health / Department of Consumer Protection,state,list,221,1749,18,27,16,0,12,7,8
+DE,Delaware,86,84,97.7,86,16,3,Delaware Department of Natural Resources and Environmental Control,state,list,7,85,7,8,5,0,2,3,1
+DC,District of Columbia,2,0,0.0,1,2,1,,local,none,0,0,1,0,0,0,0,0,1
+FL,Florida,182,29,15.9,182,182,31,Florida DBPR - Construction Industry Licensing Board,state,lookup,141,117,117,99,139,73,50,49,110
+GA,Georgia,2013,1983,98.5,2013,281,155,Georgia Department of Public Health,state,list,128,2004,84,113,108,24,43,43,43
+ID,Idaho,1148,1138,99.1,1143,85,44,Idaho Public Health Districts / Idaho DEQ,state,list,127,1058,12,12,24,20,12,7,6
+IL,Illinois,977,943,96.5,34,34,94,Illinois Department of Public Health,state,lookup,419,754,21,16,12,10,6,2,8
+IN,Indiana,29,0,0.0,29,29,13,,local,none,20,12,17,9,8,2,5,2,10
+IA,Iowa,13,0,0.0,13,13,8,,local,none,10,10,7,6,4,0,0,1,4
+KS,Kansas,9,0,0.0,9,9,4,,local,none,6,3,4,4,2,2,3,1,6
+KY,Kentucky,18,0,0.0,18,18,11,,state,none,14,6,7,5,4,2,4,4,8
+LA,Louisiana,348,333,95.7,348,84,57,Louisiana Department of Health,state,list,23,338,17,21,12,51,5,2,12
+MD,Maryland,1029,1012,98.3,930,197,24,Maryland Department of the Environment,state,list,51,1022,29,38,27,1014,17,24,27
+MA,Massachusetts,32,0,0.0,32,31,7,,local,none,27,18,10,14,7,4,9,3,14
+MI,Michigan,361,338,93.6,361,41,78,"Michigan Department of Environment, Great Lakes, and Energy (EGLE)",partial,list,351,21,19,17,13,2,16,12,9
+MN,Minnesota,1256,1253,99.8,1239,13,87,Minnesota Pollution Control Agency,state,lookup,333,980,331,7,2,114,1,494,3
+MS,Mississippi,447,439,98.2,447,16,74,Mississippi State Department of Health,state,lookup,109,383,4,4,3,4,4,1,9
+MO,Missouri,29,0,0.0,29,29,12,,state,none,15,9,16,13,9,3,5,4,10
+NE,Nebraska,456,448,98.2,64,27,79,Nebraska Department of Environment and Energy,state,list,157,387,83,7,3,0,3,9,2
+NV,Nevada,15,0,0.0,15,15,6,,state,lookup,11,7,7,6,6,0,7,2,7
+NH,New Hampshire,1541,1541,100.0,710,64,10,"New Hampshire Department of Environmental Services, Subsurface Systems Bureau",state,list,2,1541,2,5,3,0,1,214,0
+NJ,New Jersey,31,0,0.0,31,24,18,,local,none,20,19,24,22,5,1,8,3,8
+NM,New Mexico,9,0,0.0,9,9,4,,state,lookup,8,6,6,2,5,1,3,1,3
+NY,New York,60,1,1.7,59,56,27,NYC Department of Consumer and Worker Protection,local,none,43,32,32,22,24,6,4,6,22
+NC,North Carolina,4572,4522,98.9,4564,608,101,NC Onsite Wastewater Contractors & Inspectors Certification Board,state,list,149,4413,1013,135,108,13,46,60,53
+ND,North Dakota,393,393,100.0,393,57,43,North Dakota Department of Environmental Quality / local health districts,state,list,1,393,1,3,5,0,0,3,0
+OH,Ohio,51,2,3.9,51,51,20,Ohio Construction Industry Licensing Board,local,none,38,20,28,20,9,4,10,6,16
+OK,Oklahoma,281,257,91.5,279,75,58,Oklahoma Department of Environmental Quality,state,list,39,274,22,25,18,254,6,11,5
+OR,Oregon,1254,1231,98.2,1253,231,35,Oregon Department of Environmental Quality,state,list,47,1247,30,50,61,2,18,18,15
+PA,Pennsylvania,232,0,0.0,232,119,47,,local,none,152,119,185,143,20,13,31,16,31
+RI,Rhode Island,495,485,98.0,488,59,5,Rhode Island Department of Environmental Management,state,list,11,489,9,13,6,1,6,0,4
+SC,South Carolina,1487,1468,98.7,1462,49,46,South Carolina Department of Environmental Services,state,list,327,1319,25,29,22,3,6,9,18
+SD,South Dakota,469,469,100.0,0,0,52,South Dakota State Plumbing Commission,state,list,0,469,0,0,0,0,0,0,0
+TN,Tennessee,1648,1610,97.7,1638,214,94,Tennessee Department of Environment and Conservation,state,list,55,1624,40,39,38,6,23,12,20
+TX,Texas,363,158,43.5,346,212,102,Texas Commission on Environmental Quality,state,list,158,269,70,105,65,163,48,50,78
+UT,Utah,15,0,0.0,15,15,7,,partial,list,8,3,8,2,2,0,5,3,7
+VA,Virginia,1701,1688,99.2,88,100,122,Virginia Department of Professional and Occupational Regulation,state,list,51,1080,469,39,32,273,12,440,28
+WA,Washington,34,0,0.0,34,34,6,,local,none,25,19,20,22,21,8,10,8,12
+WV,West Virginia,961,961,100.0,955,0,57,West Virginia Office of Environmental Health Services,state,list,0,961,0,0,0,0,0,0,0
+WI,Wisconsin,29,0,0.0,29,29,14,,partial,lookup,24,8,13,15,4,3,6,3,10

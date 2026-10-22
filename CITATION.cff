@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the DOI below."
+title: "Septic Contractor Licensing Statistics by State (U.S., 2026)"
+type: dataset
+authors:
+  - name: "The Septic Guide"
+    website: "https://thesepticguide.com/"
+doi: "10.5281/zenodo.23550643"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23550643"
+  - type: url
+    value: "https://zenodo.org/records/23550643"
+url: "https://thesepticguide.com/septic-data/"
+repository: "https://github.com/archer-clawbot/thesepticguide-septic-licensing-statistics-data"
+license: CC-BY-4.0
+date-released: 2026-10-21

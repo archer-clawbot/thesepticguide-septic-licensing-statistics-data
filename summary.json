@@ -1,0 +1,22 @@
+{
+  "providers": 28546,
+  "license_matched": 27065,
+  "with_phone": 22183,
+  "states": 45,
+  "states_with_any_match": 30,
+  "distinct_matched_issuers": 33,
+  "providers_by_service_evidence_source": {
+    "website": 2571,
+    "state-roster": 26329,
+    "association-directory": 194
+  },
+  "repo_source_block": {
+    "exported": "2026-10-21",
+    "total": 28546,
+    "licensed": 27065,
+    "withPhone": 22183,
+    "states": 45,
+    "stateLists": 26
+  },
+  "licensing_asOf": "2026-10-20"
+}
